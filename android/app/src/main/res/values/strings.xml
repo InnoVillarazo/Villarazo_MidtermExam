@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App name displayed under the app icon -->
+    <string name="app_name">Catfolio</string>
+</resources>
