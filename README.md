@@ -1,16 +1,36 @@
-# portfolio_app
+# Catfolio – Flutter Portfolio App
 
-A new Flutter project.
+**Student:** Inno Villarazo  
+**Project:** Midterm Exam  
+**Platform:** Android (Flutter)
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 About the App
 
-A few resources to get you started if this is your first Flutter project:
+Catfolio is a **cat-themed portfolio app** built with Flutter.  
+It showcases:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Random cat picture generator using [The Cat API](https://thecatapi.com)  
+- Sections for **About Me**, **Projects**, **Skills**, and **Contact Information**  
+- Modern, clean UI design  
+- Fully functional on Android devices
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🖼 Features
+
+- **Home Page**: Random cat picture generator with button to load new cats.  
+- **About Me**: Displays personal information and a profile picture.  
+- **Projects**: Lists GitHub projects with descriptions and random cat images for visual fun.  
+- **Skills**: Showcases skills in a modern card layout.  
+- **Contact Information**: Email, phone, GitHub, and Facebook information displayed clearly.
+
+---
+
+## ⚙️ How to Run
+
+1. Clone this repository:
+
+```bash
+git clone https://github.com/InnoVillarazo/Villarazo_MidtermExam.git
